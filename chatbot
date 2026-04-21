@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <title>Apri MagicSchool</title>
+</head>
+<body style="font-family:Arial,sans-serif; padding:30px;">
+  <a href="https://student.magicschool.ai/s/join?joinCode=oqJAuA"
+     onclick="window.open(this.href,'Magicschool','width=800,height=600,top=100,left=150'); return false;"
+     style="text-decoration:none; color:red; border-radius:10px; padding:8px 12px; border:2px solid red; font-size:20px; display:inline-block;">
+     Apri MagicSchool
+  </a>
+</body>
+</html>
